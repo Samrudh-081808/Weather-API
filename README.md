@@ -23,13 +23,13 @@ A desktop weather application built using Python and PyQt5 that fetches current 
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Samrudh-081808/Weather-API
 ```
 
 Navigate into the project folder:
 
 ```bash
-cd YOUR-REPOSITORY
+cd Weather-API
 ```
 
 ### 2. Install Dependencies
@@ -48,13 +48,9 @@ Create an account on [OpenWeatherMap](https://home.openweathermap.org/api_keys) 
 
 Create a file named `.env` in the project folder.
 
-Copy the contents of `.env.example` into `.env` and replace the placeholder with your API key:
-
 ```env
 WEATHER_API_KEY=your_actual_api_key
 ```
-
-
 
 ### 5. Run the Application
 
