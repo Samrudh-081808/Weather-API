@@ -54,7 +54,7 @@ Copy the contents of `.env.example` into `.env` and replace the placeholder with
 WEATHER_API_KEY=your_actual_api_key
 ```
 
-**Note:** Keep your `.env` file private. Never upload your actual API key to GitHub.
+
 
 ### 5. Run the Application
 
