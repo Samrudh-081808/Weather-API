@@ -48,7 +48,7 @@ Create an account on [OpenWeatherMap](https://home.openweathermap.org/api_keys) 
 
 Create a file named `.env` in the project folder.
 
-Copy the contents of `.env.example` into `.env` and replace the placeholder with your API key:
+Copy the contents below:
 
 ```env
 WEATHER_API_KEY=your_actual_api_key
