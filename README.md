@@ -29,7 +29,7 @@ git clone https://github.com/Samrudh-081808/Weather-API.git
 Navigate into the project folder:
 
 ```bash
- cd '.\Weather API\'
+ cd .\Weather API\
 ```
 
 ### 2. Install Dependencies
