@@ -23,13 +23,21 @@ A desktop weather application built using Python and PyQt5 that fetches current 
 Open your terminal and run:
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Samrudh-081808/Weather-API
+=======
+git clone https://github.com/Samrudh-081808/Weather-API.git
+>>>>>>> f0990029e5550ccb346681d2e521101cbeafcfb4
 ```
 
 Navigate into the project folder:
 
 ```bash
+<<<<<<< HEAD
 cd Weather-API
+=======
+ cd .\Weather API\
+>>>>>>> f0990029e5550ccb346681d2e521101cbeafcfb4
 ```
 
 ### 2. Install Dependencies
@@ -48,6 +56,11 @@ Create an account on [OpenWeatherMap](https://home.openweathermap.org/api_keys) 
 
 Create a file named `.env` in the project folder.
 
+<<<<<<< HEAD
+=======
+Copy the contents below:
+
+>>>>>>> f0990029e5550ccb346681d2e521101cbeafcfb4
 ```env
 WEATHER_API_KEY=your_actual_api_key
 ```
